@@ -7,7 +7,7 @@ Primeiramente, a modalagem de referência é representada conforme FIGURA 1. Os 
 Em seguida os seguintes passos foram executados:
 
 1. Criação dos Scripts SQL para criação do esquema do banco de dados. O arquivo scripts.sql está disponível no diretório /scripts
-2. Inserção dos dados. O arquivo insert.sql está disponível no diretório /scripts
+2. Inserção dos dados. O arquivo insert-data.sql está disponível no diretório /scripts
 3. Criação de consultas SQL, apresentadas a seguir e disponível no diretório /scripts, chamada de querys.sql
 
 Diante disso, abaixo demonstração dos resultados obtidos:
